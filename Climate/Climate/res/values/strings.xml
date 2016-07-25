@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">weather Report</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="info">Food Warehouse Climate Report from Node_Id : 4</string>
+    <string name="temp">Temperature(in °C):</string>
+    <string name="press">Pressure(in mbar):</string>
+    <string name="humi">Humidity(in %RH):</string>
+    <string name="visi">VisibleLight(in LUX):</string>
+</resources>
+
